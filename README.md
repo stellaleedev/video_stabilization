@@ -4,7 +4,7 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 
 
 | Year | Author | Pub |Paper | Ref. | Repo |
-|------|-----|-----|-------|----|------|
+|------|-------|------|----------|----|-------|
 | 2009 |     |TOG | Content-Preserving Warps for 3D Video Stabilization |  | [project page](project-page-link) |
 | 2011 | Karpenko et al. | | Digital Video Stabilization and Rolling Shutter Correction Using Gyrosopes | | |
 | 2011 | Grundmann et al. |CVPR | Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths | | [project page](project-page-link), [code, MATLAB (unofficial)](code-link), [code, Python (unofficial)](code-link) |
@@ -18,7 +18,7 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 | 2016 | Liu et al. |ECCV | MeshFlow: Minimum Latency Online Video Stabilization | | [project page](project-page-link), [code(unofficial)](code-link) |
 | 2017 | Liu et al. |TIP | CodingFlow:Enable Video Coding for Video Stabilization |  | - |
 | 2017 | |CVPR | Direct Photometric Alignment by Mesh Deformation | | - |
-| 2017 | Liang & Shih | 2017 | Google | 2017 | Fused Video Stabilization on The Pixel 2 and Pixel 2 XL | | |
+| 2017 | Liang & Shih | Google | Fused Video Stabilization on The Pixel 2 and Pixel 2 XL | | |
 | 2018 | Xu et al. |CGF | Deep Video Stabilization Using Adversarial Networks | | - |
 | 2018 | Yu et al. |ECCV | Selfie Video Stabilization | | [project page](project-page-link), [dataset](dataset-link) |
 | 2019 | Wang et al. |TIP | Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning | | [code(official)](code-link), [dataset](dataset-link) |
