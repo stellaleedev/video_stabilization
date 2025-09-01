@@ -4,7 +4,7 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 
 
 | Year | Author | Pub |Paper | Ref. | Repo |
-|------|-------|------|----------|----|-------|
+|-----|-----------|------|-------------|----|-------|
 | 2009 |     |TOG | Content-Preserving Warps for 3D Video Stabilization |  | [project page](project-page-link) |
 | 2011 | Karpenko et al. | | Digital Video Stabilization and Rolling Shutter Correction Using Gyrosopes | | |
 | 2011 | Grundmann et al. |CVPR | Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths | | [project page](project-page-link), [code, MATLAB (unofficial)](code-link), [code, Python (unofficial)](code-link) |
@@ -54,4 +54,4 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 | 2025 | Liu et al. | | Minimum Latency Deep Online Video Stabilization and Its Extensions | | |
 | 2025 | Yu et al. | | SensorFlow: Sensor and Image Fused Video Stabilization | | | 
 | 2025 | Ren et al. | | An Unsupervised Video Stabilization algorithm based on gyroscope image fusion | | |
-| 2025 | |SIGGRAPH | GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering | | [code(official)](https://github.com/sinoyou/GaVS), [dataset](dataset-link) |
+| 2025 | |SIGGRAPH | [GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering](https://sinoyou.github.io/gavs/)| | [code(official)](https://github.com/sinoyou/GaVS), [dataset](https://huggingface.co/datasets/sinoyou/gavs-data/tree/main/dataset) |
