@@ -54,4 +54,4 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 | 2025 | Liu et al. | | Minimum Latency Deep Online Video Stabilization and Its Extensions | | |
 | 2025 | Yu et al. | | SensorFlow: Sensor and Image Fused Video Stabilization | | | 
 | 2025 | Ren et al. | | An Unsupervised Video Stabilization algorithm based on gyroscope image fusion | | |
-| 2025 | |SIGGRAPH | GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering | | [code(official)](code-link), [dataset](dataset-link) |
+| 2025 | |SIGGRAPH | GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering | | [code(official)](https://github.com/sinoyou/GaVS), [dataset](dataset-link) |
