@@ -4,7 +4,7 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 
 
 | Year | Author | Pub |Paper | Ref. | Repo |
-|-----|-----------|------|-------------|----|-------|
+|-----|---------------|------|----------------------|----|-------|
 | 2009 |     |TOG | Content-Preserving Warps for 3D Video Stabilization |  | [project page](https://web.cecs.pdx.edu/~fliu/project/3dstab.htm) |
 | 2011 | Karpenko et al. | | Digital Video Stabilization and Rolling Shutter Correction Using Gyrosopes | | |
 | 2011 | Grundmann et al. |CVPR | Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths | | [code, MATLAB (unofficial)](https://github.com/ishit/L1Stabilizer), [code, Python (unofficial)](https://github.com/ishank-juneja/L1-optimal-paths-Stabilization) |
