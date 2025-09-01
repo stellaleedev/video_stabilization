@@ -49,9 +49,9 @@ Baseline https://github.com/yaochih/awesome-video-stabilization?tab=readme-ov-fi
 | 2023,2022| Li et al., Liu et al.| | DeepOIS:Gyroscopic-Guided Deep Optical Image Stabilizer Compensation | | |
 | 2023 | Huang et al. | | DMCVS: Decomposed motion compensation-based video stabilization | | |
 | 2023 | Sreegeethi et al. | | Online Video Stabilization using Mesh Flow with Minimum Latency | | |
-| 2024 | Peng et al. |CVPR | 3D Multi-frame Fusion for Video Stabilization | | [code(official)](code-link) |
-| 2024 | Ali et al. |CVPR| Harnessing Meta-Learning for Improving Full-Frame Video Stabilization | | | 
-| 2025 | Liu et al. | | Minimum Latency Deep Online Video Stabilization and Its Extensions | | |
-| 2025 | Yu et al. | | SensorFlow: Sensor and Image Fused Video Stabilization | | | 
-| 2025 | Ren et al. | | An Unsupervised Video Stabilization algorithm based on gyroscope image fusion | | |
+| 2024 | Peng et al. |CVPR | [3D Multi-frame Fusion for Video Stabilization](https://arxiv.org/abs/2404.12887) | | [code(official)](code-link) |
+| 2024 | Ali et al. |CVPR| [Harnessing Meta-Learning for Improving Full-Frame Video Stabilization](https://arxiv.org/abs/2403.03662) | | | 
+| 2025 | Liu et al. | | [Minimum Latency Deep Online Video Stabilization and Its Extensions](https://ieeexplore.ieee.org/document/10746630) | | |
+| 2025 | Yu et al. | | [SensorFlow: Sensor and Image Fused Video Stabilization](https://ieeexplore.ieee.org/document/10944104) | | | 
+| 2025 | Ren et al. | | [An Unsupervised Video Stabilization algorithm based on gyroscope image fusion](https://www.sciencedirect.com/science/article/abs/pii/S0097849324002899) | | |
 | 2025 | |SIGGRAPH | [GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering](https://sinoyou.github.io/gavs/)| | [code(official)](https://github.com/sinoyou/GaVS), [dataset](https://huggingface.co/datasets/sinoyou/gavs-data/tree/main/dataset) |
